@@ -1,0 +1,33 @@
+Subject: Important Security Alert
+
+Dear User,
+
+We've detected unusual activity on your account. Please confirm your identity immediately by visiting the secure link below:
+http://secure-update.account-checker.top/login
+
+You can also verify directly via our backup server:
+http://198.51.100.42/activity-report
+
+Hello,
+
+Please find your pending invoice attached. If you're unable to view it, download it from:
+http://fastbilling.invoices-alerts.top/invoice2025.zip
+
+Contact billing@fastbilling-alerts.com for questions.
+
+Hi,
+
+We've received a password reset request for your account.
+http://secure.login-reset-support.com/reset
+
+Advanced users can log in via:
+http://203.0.113.77/admin
+
+Hello,
+
+We found your resume impressive and are offering you a remote job. Please apply here:
+http://career-portal.joboffers.zip/apply-now
+
+Regards,
+HR Department
+hr-contact@joboffers.zip
